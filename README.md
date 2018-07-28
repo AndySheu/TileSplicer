@@ -2,6 +2,8 @@
 
 TileSplicer is an open-source image editor written in Python. TileSplicer splices a tileset into individual tiles, which can be combined into a tilemap.
 
+TileSplicer is licensed under the GPLv3. Please refer to the license file included.
+
 ### Installation
 
 This program uses Pillow, a fork of the Python Imaging Library. Pillow can be easily installed using pip:
